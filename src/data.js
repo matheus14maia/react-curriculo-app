@@ -34,16 +34,40 @@ export const projects = [
   ];
 
 export const skills = [
-    {
-        title: "React Api",
-    },
-    {   
-        title: "React Tracks",
-    },
-    {
-        title: "Java",
-    },
-    {
-        title: "Scripts",
-    },
+        "React Api", "React Tracks", "Java", "Scripts"
 ];
+
+export const testimonials = [
+    {
+      quote: "React Reserve",
+      name: "Api for React",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./project-1.gif",
+      company: "https://reactbootcamp.com",
+    },
+    {
+      quote: "React Tracks",
+      name: "React",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./project-2.gif",
+      company: "https://reedbarger.com",
+    },
+    {
+      quote: "Java",
+      name: "Java Projects for university",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./project-3.gif",
+      company: "https://jsbootcamp.com",
+    },
+    {
+      quote: "Scripts",
+      name: "Python scripts",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./project-4.gif",
+      company: "https://pythonbootcamp.com",
+    },
+  ];
