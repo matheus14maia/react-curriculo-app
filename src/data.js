@@ -1,5 +1,3 @@
-
-
 export const projects = [
     {
       title: "React Reserve",
@@ -34,3 +32,18 @@ export const projects = [
       link: "https://pythonbootcamp.com",
     },
   ];
+
+export const skills = [
+    {
+        title: "React Api",
+    },
+    {   
+        title: "React Tracks",
+    },
+    {
+        title: "Java",
+    },
+    {
+        title: "Scripts",
+    },
+];
